@@ -2,7 +2,7 @@
 
 ## Mastering Data Visualisation Design
 
-Slides for the Mastering Data Visualisation Design Masterclass on 18th April 2024.
+[Slides](https://github.com/Sydney-Informatics-Hub/SIH_Masterclass/blob/main/DataViz_Masterclass.pdf) for the Mastering Data Visualisation Design Masterclass on 18th April 2024.
 
 Mastering Data Visualisation Design - Sydney Informatics Hub Masterclass
 
