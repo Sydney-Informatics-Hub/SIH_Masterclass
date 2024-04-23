@@ -6,7 +6,7 @@
 
 Mastering Data Visualisation Design - Sydney Informatics Hub Masterclass
 
-Workshop recording is on Youtube
+[Workshop recording is on Youtube](https://youtu.be/FI9fbRxJs1o)
 
 Presented by Dr. Giorgia Mori of the Sydney Informatics Hub.
 
